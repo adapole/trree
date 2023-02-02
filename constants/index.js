@@ -1,26 +1,26 @@
 export const exploreWorlds = [
 	{
-		id: 'world-1',
+		id: 1,
 		imgUrl: '/desert.jpg',
 		title: 'The Sandy Desert',
 	},
 	{
-		id: 'world-2',
+		id: 2,
 		imgUrl: '/cosmos.jpg',
 		title: 'The Cosmos',
 	},
 	{
-		id: 'world-3',
+		id: 3,
 		imgUrl: '/planet-epic.jpg',
 		title: 'The Enchanted Forest',
 	},
 	{
-		id: 'world-4',
+		id: 4,
 		imgUrl: '/planet-space.jpg',
 		title: 'The Crimson Savannah',
 	},
 	{
-		id: 'world-5',
+		id: 5,
 		imgUrl: '/crystal.jpg',
 		title: 'Krytonium Land',
 	},
@@ -76,7 +76,7 @@ export const socials = [
 	{
 		name: 'discord',
 		url: '/discord.svg',
-		link: 'https://discord.gg/25d7pNwF',
+		link: 'https://discord.gg/dqNQTDTdqk',
 	},
 	/*{
 		name: 'instagram',

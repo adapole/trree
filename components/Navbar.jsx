@@ -16,7 +16,7 @@ const Navbar = () => (
 			<button
 				type='button'
 				onClick={() => {
-					window.open('https://discord.gg/25d7pNwF', '_blank');
+					window.open('https://discord.gg/dqNQTDTdqk', '_blank');
 				}}
 			>
 				<img
